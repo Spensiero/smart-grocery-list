@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Spensiero.github.io/smart-grocery-list",
+  "homepage": "https://spensiero.github.io/smart-grocery-list",
   "scripts": {
     "start": "vite",
     "build": "vite build",
@@ -11,7 +11,7 @@
     "preview": "vite preview",
     "test": "vitest",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@radix-ui/react-alert-dialog": "^1.1.14",
