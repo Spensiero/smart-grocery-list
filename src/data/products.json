@@ -1,0 +1,22 @@
+[
+    { "x": 1, "y": 2, "icon":"🧀", "name": "Cheese" },
+    { "x": 3, "y": 3, "icon":"🍆", "name": "Eggplant" },
+    { "x": 2, "y": 1, "icon":"🥦", "name": "Broccoli" },
+    { "x": 0, "y": 1, "icon":"🍊", "name": "Tangerine" },
+    { "x": 2, "y": 2, "icon":"🌶️", "name": "Hot Pepper" },
+    { "x": 0, "y": 3, "icon":"🥐", "name": "Croissant" },
+    { "x": 1, "y": 0, "icon":"🍇", "name": "Grapes" },
+    { "x": 3, "y": 3, "icon":"🍋", "name": "Lemon" },
+    { "x": 1, "y": 3, "icon":"🧅", "name": "Onion" },
+    { "x": 2, "y": 1, "icon":"🍅", "name": "Tomato" },
+    { "x": 3, "y": 0, "icon":"🥑", "name": "Avocado" },
+    { "x": 3, "y": 2, "icon":"🍞", "name": "Bread" },
+    { "x": 0, "y": 0, "icon":"🍯", "name": "Honey" },
+    { "x": 0, "y": 2, "icon":"🥕", "name": "Carrot" },
+    { "x": 2, "y": 3, "icon":"🥬", "name": "Leafy Green" },
+    { "x": 3, "y": 2, "icon":"🐷", "name": "Pig" },
+    { "x": 3, "y": 2, "icon":"🍑", "name": "Peach" },
+    { "x": 1, "y": 0, "icon":"🧄", "name": "Garlic" },
+    { "x": 0, "y": 3, "icon":"🥫", "name": "Canned Food" },
+    { "x": 2, "y": 0, "icon":"🌽", "name": "Corn" }
+]
