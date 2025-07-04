@@ -2,6 +2,8 @@
 
 A revolutionary shopping companion that optimizes your shopping experience by combining an intelligent shopping list manager with advanced store navigation. This application uses cutting-edge algorithms to create the most efficient shopping routes, saving you time and reducing frustration while shopping.
 
+[url: ](https://spensiero.github.io/smart-grocery-list/)
+
 ## Key Benefits
 
 - **Time-saving Navigation**: Automatically generates the most efficient shopping route based on your list
